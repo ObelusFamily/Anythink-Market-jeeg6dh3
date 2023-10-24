@@ -1,0 +1,17 @@
+id: Applitools_Java_Quest
+title: Run your first Applitools Java quest
+subtitle: Applitools Java Quest
+description: "A step-by-step guide to run your first Applitools Java quest"
+level: beginner
+steps:
+- setup
+- initProject
+- configure
+- test
+- diffs
+duration: 0.5
+skills:
+- Applitools
+- Java
+- Selenium
+repository: https://github.com/benbabayoff8/WilcoSeleniumJava
